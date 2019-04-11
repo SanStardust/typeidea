@@ -1,6 +1,9 @@
 *.pyc
 *.swp
 *.sqlite3
-desktop.ini
 
+
+desktop.ini
 .idea
+Pipfile
+Pipfile.lock
